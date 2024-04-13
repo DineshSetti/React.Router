@@ -1,0 +1,18 @@
+nav {
+  font-size: larger;
+  position: fixed;
+  top: 10%;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+nav a {
+  padding: 15px;
+  font-size: xx-large;
+}
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+}
